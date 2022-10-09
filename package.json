@@ -1,0 +1,29 @@
+{
+  "name": "nft-dummy-assets",
+  "version": "1.0.0",
+  "description": "Your NFT dummy assets for NFT test deployments.",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warengonzaga/nft-dummy-assets.git"
+  },
+  "keywords": [
+    "nft",
+    "dummy",
+    "assets"
+  ],
+  "author": "Waren Gonzaga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/warengonzaga/nft-dummy-assets/issues"
+  },
+  "homepage": "https://github.com/warengonzaga/nft-dummy-assets#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "zip-folder": "^1.0.0"
+  }
+}
