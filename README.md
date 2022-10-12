@@ -4,6 +4,10 @@
 
 Making test NFT deploment easier by providing dummy NFT arts with metadata. 100% compatible with thirdweb platform. These are the NFT dummy arts I use for test and educational purposes.
 
+## ⏬ Quick Downloads
+
+- **[Mata NFT](source/collections/mata-nft/readme.md)** [ [Download Now](builds/mata-nft.zip) ]
+
 ## 🎯 Contributing
 
 Contributions are welcome, create a pull request to this repo and I will review your code. Please consider to submit your pull request to the `dev` branch. Thank you!
