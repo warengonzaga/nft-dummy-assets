@@ -65,4 +65,4 @@ Mata NFT Dummy Assets is licensed under [The MIT License](https://opensource.org
 
 ---
 
-💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://youtu.be/HHrxS4diLew?t=44) 🙏
+💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [He is Awesome](https://www.youtube.com/watch?v=HHrxS4diLew&t=44s) 🙏

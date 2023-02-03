@@ -6,9 +6,10 @@ Making test NFT deploment easier by providing dummy NFT arts with metadata. 100%
 
 ## ⏬ Dummy Collections
 
-| Preview | Name | Description |
-| --- | --- | ---
-| <img src="source/collections/mata-nft/preview.gif" width="100"/> | [Mata NFT](source/collections/mata-nft/readme.md) | A dummy NFT collection of 30 unique pixelated arts based on HashLips Art Engine sample assets. This is for testing purposes only and not real NFT collection. |
+| Preview                                                       | Name                                              | Description                                                                                                                                                   |
+| ------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="src/collections/mata-nft/preview.gif" width="100"/> | [Mata NFT](src/collections/mata-nft/readme.md) | A dummy NFT collection of 30 unique pixelated arts based on HashLips Art Engine sample assets. This is for testing purposes only and not real NFT collection. |
+| <img src="src/collections/emoji-nft/preview.gif" width="100"/> | [Emoji NFT](src/collections/emoji-nft/readme.md)  | A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.               |
 
 ## 🎯 Contributing
 
@@ -43,4 +44,4 @@ NFT Dummy Assets is created by **[Waren Gonzaga](https://github.com/warengonzaga
 
 ---
 
-💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://youtu.be/HHrxS4diLew?t=44) 🙏
+💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [He is Awesome](https://www.youtube.com/watch?v=HHrxS4diLew&t=44s) 🙏
