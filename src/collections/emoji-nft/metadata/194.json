@@ -1,0 +1,25 @@
+{
+  "name": "Emoji NFT #194",
+  "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+  "image": "194.png",
+  "dna": "3a922dd6055d03cfae178641669e482026a3df79",
+  "edition": 194,
+  "date": 1675330099612,
+  "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+  "creator": "Waren Gonzaga",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Indigo"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Pattern 9"
+    },
+    {
+      "trait_type": "Emoji",
+      "value": "Emoji 10"
+    }
+  ],
+  "compiler": "The thirdweb Art Engine"
+}

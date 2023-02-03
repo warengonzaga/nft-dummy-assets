@@ -1,0 +1,25 @@
+{
+  "name": "Emoji NFT #356",
+  "description": "A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.",
+  "image": "356.png",
+  "dna": "be72456a7d34548dd7676cc197952b8650a04f5c",
+  "edition": 356,
+  "date": 1675330108006,
+  "external_url": "https://github.com/warengonzaga/nft-dummy-assets",
+  "creator": "Waren Gonzaga",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Pattern 10"
+    },
+    {
+      "trait_type": "Emoji",
+      "value": "Emoji 2"
+    }
+  ],
+  "compiler": "The thirdweb Art Engine"
+}
