@@ -10,6 +10,7 @@ Making test NFT deploment easier by providing dummy NFT arts with metadata. 100%
 | ------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="src/collections/mata-nft/preview.gif" width="100"/> | [Mata NFT](src/collections/mata-nft/readme.md) | A dummy NFT collection of 30 unique pixelated arts based on HashLips Art Engine sample assets. This is for testing purposes only and not real NFT collection. |
 | <img src="src/collections/emoji-nft/preview.gif" width="100"/> | [Emoji NFT](src/collections/emoji-nft/readme.md)  | A dummy NFT collection of 1000 unique emoji with custom background and patterns. This is for testing purposes only and not real NFT collection.               |
+| <img src="src/collections/membro-nft/preview.gif" width="100"/> | [Membro NFT](src/collections/membro-nft/readme.md)  | A dummy NFT membership collection of 500 unique metadata with one image only as a representation. This is for testing purposes only and not real NFT membership collection.               |
 
 ## 🎯 Contributing
 
