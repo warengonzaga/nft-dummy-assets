@@ -31,7 +31,17 @@ const buildDummies = () => {
 
                 // copy the images and metadata to the thirdweb folder
                 copySync(images, thirdweb);
-                copyFileSync(`${metadata}/_metadata.json`, `${thirdweb}/_metadata.json`);
+
+                // filter if the metadata is in json format
+                if (existsSync(`${metadata}/_metadata.json`)) {
+                    copySync(`${metadata}/_metadata.json`, `${thirdweb}/_metadata.json`);
+                }
+                
+                // filter if the metadata is in csv format
+                if (existsSync(`${metadata}/metadata.csv`)) {
+                    copySync(`${metadata}/metadata.csv`, `${thirdweb}/metadata.csv`);
+                }
+
                 console.log(`Required files has been copied...`);
 
                 // package the dummy collection
